@@ -1,6 +1,6 @@
 # Project 1 - *ToDoApp*
 
-**Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**ToDoApp** is an android app that allows user to create their own to do lists. They can add and remove apps as they choose allowing them to keep track of their tasks. Tasks persist even when app is closed.
 
 Submitted by: **Jashandeep Singh**
 
