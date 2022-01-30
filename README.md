@@ -1,8 +1,8 @@
 # Project 1 - *ToDoApp*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple Todo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Jashandeep singh**
+Submitted by: **Jashandeep Singh**
 
 Time spent: **2** hours spent in total
 
@@ -10,9 +10,9 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [] User can **view a list of todo items**
-* [] User can **successfully add and remove items** from the todo list
-* [] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [X] User can **view a list of todo items**
+* [X] User can **successfully add and remove items** from the todo list
+* [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
@@ -26,17 +26,21 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![simpleToDoApp](https://user-images.githubusercontent.com/83977892/147864627-8f447046-2d7a-4eed-a425-b2785261c370.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+At first there was a challenge in getting the android environment set up but after doing additional research myself I was able to get the emulator running.
+Overall, I felt there were not much challenges encountered while building the app because the walk through was clear and precise. A valuable learning experience overall.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Jashandeep Singh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
