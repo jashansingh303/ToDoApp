@@ -26,8 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-(https://user-images.githubusercontent.com/83977892/147864627-8f447046-2d7a-4eed-a425-b2785261c370.gif)
-
+![simpleToDoApp](https://user-images.githubusercontent.com/83977892/147864627-8f447046-2d7a-4eed-a425-b2785261c370.gif)
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
