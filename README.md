@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![simpleToDoApp](https://user-images.githubusercontent.com/83977892/147864627-8f447046-2d7a-4eed-a425-b2785261c370.gif)
+(https://user-images.githubusercontent.com/83977892/147864627-8f447046-2d7a-4eed-a425-b2785261c370.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -35,8 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-At first there was a challenge in getting the android environment set up but after doing additional research myself I was able to get the emulator running.
-Overall, I felt there were not much challenges encountered while building the app because the walk through was clear and precise. A valuable learning experience overall.
+I had some trouble with trying to read in and write in the app however, I was able to solve it by using the org.apache.commons.io.FileUtils
 
 ## License
 
